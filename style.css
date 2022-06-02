@@ -3,12 +3,12 @@ body{
 }
 #box{
     height: 100px;
-    width: 20%;
+    width: 30%;
     margin-left: 20px;
     font-size: xx-large;
 }
 button{
-    width: 5%;
+    width: 15%;
     height: 70px;
     background-color: green;
     color: aliceblue;
