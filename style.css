@@ -1,4 +1,6 @@
-
+body{
+    width: auto;
+}
 #box{
     height: 100px;
     width: 20%;
