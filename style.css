@@ -1,0 +1,35 @@
+
+#box{
+    height: 100px;
+    width: 300px;
+    margin-left: 20px;
+    font-size: xx-large;
+}
+button{
+    width: 70px;
+    height: 70px;
+    background-color: green;
+    color: aliceblue;
+    font-size: xx-large;
+    border: none;
+}
+#clear{
+    width: 200px;
+    margin-left: 20px;
+}
+.first{
+    padding: 20px;
+
+}
+.second{
+    padding: 20px;
+
+}
+.third{
+    padding: 20px;
+
+}
+.fourth{
+    padding: 20px;
+
+}
