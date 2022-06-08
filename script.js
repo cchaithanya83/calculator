@@ -66,6 +66,11 @@ function keq(){
     document.getElementById("box").value=v;
     
 }
+function kper(){
+    var text= document.getElementById("box");
+    text.value +='%';
+
+}
 function clc(){
     var text= document.getElementById("box");
     text.value ='';
